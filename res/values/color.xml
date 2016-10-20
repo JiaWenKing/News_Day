@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="qianblue">#20ceff</color><!-- 浅蓝 -->
+    <color name="qianblue2">#33a4fe</color><!-- 浅蓝2 -->
+    <color name="gray">#666666</color><!-- 灰色 -->
+    <color name="danhui">#e8e8e8</color><!--淡灰色 -->
+    <color name="danhui2">#d4d4d4</color><!--淡灰色2 -->
+    <color name="red1">#af0202</color><!--红色1 -->
+    <color name="red2">#870a0a</color><!--红色2 -->
+    <color name="yellow1">#ffbc00</color><!--黄色1 -->
+    <color name="gl_background">#737373</color>
+    <color name="bantouming">#e0000000</color><!--bantouming -->
+</resources>
